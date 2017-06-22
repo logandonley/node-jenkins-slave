@@ -1,0 +1,2 @@
+# node jenkins slave
+
